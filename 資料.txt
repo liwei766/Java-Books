@@ -1,0 +1,1686 @@
+
+eiri@fsi.co.jp
+eiri
+
+富士ソフトドメインの初期パスワード：Fsieiri1
+
+https://jakarta332j.platon.fsi.co.jp/redmine/projects
+eiri/Fsieiri.1
+
+■開発関連資料
+\\10.2.120.103\Public\OPTIM\コールセンター支援システム\04_作成資料\99_開発環境\03_nextserve
+
+\\10.2.120.103\Public\OPTIM\コールセンター支援システム\99_作業用\shaonanli
+
+
+
+変更ソースファイルの格納箇所：
+\\10.2.120.103\Public\OPTIM\コールセンター支援システム\99_作業用\liwei
+
+localデータベース mysql
+root/Fsieiri1
+
+https://jakarta332j.platon.fsi.co.jp/svn/
+mkumakur/Mkumakur76742
+
+
+駐車禁止の場所に継続して停止するような場合でも、運転者が車の中にいれば駐車にはならない。
+
+
+このフォームの送信時にメールアドレス（eiri@fsi.co.jp）が記録されました。
+
+MS OFFICE資産管理番号の確認 ※半角英数字 *
+
+ 37921700247149
+
+【JSHint の設定】
+
+	・［設定］またはプロジェクトのプロパティから
+	　JSHint－構成を選択して、「Global JSHint configuration」に以下の内容を設定
+{
+"laxcomma" : true,
+"validthis" : true,
+"jquery" : true,
+"globalstrict" : true,
+
+"predef": [
+  "window",
+  "document",
+  "jquery",
+  "$",
+  "CCS",
+
+  "setInterval","clearInterval",
+  "setTimeout"
+]
+
+}
+
+CallCenterSolution
+
+/branches/AIVoiceAnalytics/ph4/war/ui/app/parts/navbar.html
+公钥和私钥是成对的，它们互相解密。
+
+公钥加密，私钥解密。
+
+私钥数字签名，公钥验证。 
+
+一个移动客户端与服务端安全交互的解决方案：
+1、客户端使用AES加密报文，使用RSA公钥加密AES密钥
+2、服务端使用私钥解密AES密钥，再使用AES密钥解密密文
+ 
+
+aes/des加密速度快,适合大量数据,des容易破解,一般用3重des,后来又出现了更快更安全的aes。
+rsa是公钥加密算法,速度慢,只能处理少量数据,优点是公钥即使在不安全的网络上公开,也能保证安全。
+
+常见情况是双方用rsa协商出一个密钥后通过aes/3des给数据加密。
+
+日産改ざん 乏しい自浄能力写真　一度聴　
+-----------------------------------------------------------------
+一度聴いたら忘れられない不思議な歌　『るるるの歌』
+るるるるる･･･ きる きる なくなる なる へる おりる みつける とる たべる みつかる にげる つかまる きる きる なくなる なる へる おりる みつける とる たべる みつかる にげる つかまる るるるるる･･･ まる めざめる おきる でかける とる いれる みつける かけよる …
+
+駆け寄る　
+一度聴いたら忘れられない不思議な歌
+塊　
+A callback is a function that is passed as an argument to another function and is executed after its parent function has completed.
+
+A closure is a function having access to the parent scope, even after the parent function has closed.
+
+
+
+JHipster Installation on windows
+Example
+Install Java 8 from the Oracle website.
+(Optional) Install a Java build tool. Whether you choose to use Maven or Gradle, you normally don’t have to install anything, as JHipster will automatically install the Maven Wrapper or the Gradle Wrapper for you. If you don’t want to use those wrappers, go to the official Maven website or Gradle website to do your own installation.
+Install Git from git-scm.com. We recommend you also use a tool like SourceTree if you are starting with Git.
+Install Node.js from the Node.js website (prefer an LTS version). This will also install npm, which is the node package manager we are using in the next commands.
+Install Yeoman: npm install -g yo
+Install Bower: npm install -g bower
+Install Gulp: npm install -g gulp-cli (If you have previously installed a version of gulp globally, please run npm rm -g gulp to make sure your old version doesn’t collide with gulp-cli)
+Install JHipster: npm install -g generator-jhipster
+
+
+curl -X POST --header 'Content-Type: application/json' --header 'Accept: application/json' --header 'Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImF1dGgiOiJST0xFX0FETUlOLFJPTEVfVVNFUiIsImV4cCI6MTUzMjc2Mjc2NX0.1IFNg2GuqYBSJMWfFT-aFO3hKiueR17-zwxW_7H5kje23hlrtz4V1uI2R6dZDZ-pKKBstH5sGw4vIrYFZC3SLA' -d '{ \ 
+  \ 
+   "regionName": "South America"  }' "http://localhost:8080/api/regions"
+
+
+C:\pleiades\tortoiseSVN\branches\
+AIVoiceAnalytics\ph4
+
+
+https://github.com/liwei766/resteasyCCS.git
+https://github.com/liwei766/mynumber.git
+
+弱肉強食　蓮池　一度聴いたら忘れられない　
+…or create a new repository on the command line
+echo "# CallCenterSolution" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/liwei766/CallCenterSolution.git
+git push -u origin master
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/liwei766/CallCenterSolution.git
+git push -u origin master
+
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+https://github.com/liwei766/resteasyAIVA.git
+LINUX
+curl -X POST -H "Content-Type: application/json" -d '{"searchForm":{"inquiryFormSearchForm":{"hashedCompanyId":"c6790741e136600a2b87489ad893a39617cdc22ca005812959d9652181a46be2","knowledge":{"tagId":[]}}}}'  localhost:8080/CallCenterSolution/api/inquiryform/search
+
+WINDOWS
+curl -v -H "Content-Type: application/json" -X POST -d '{\"searchForm\":{\"inquiryFormSearchForm\":{\"hashedCompanyId\":\"c6790741e136600a2b87489ad893a39617cdc22ca005812959d9652181a46be2\",\"knowledge\":{\"tagId\":[]}}}}'  http://localhost:8080/CallCenterSolution/api/inquiryform/search
+
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+無認証
+curl -v -H "Accept: application/json" -H "Content-type: application/json" -X POST -d @jsondata.txt  http://localhost:8080/CallCenterSolution/api/inquiryform/search
+
+管理者
+curl -u mitsuko.kumakura:kumakura -v -H "Accept: application/json" -H "Content-type: application/json" -X POST -d @jsondata.txt  http://localhost:8080/CallCenterSolution/api/inquiryform/search
+
+curl -u "admin:optimadmin2017" -v -H "Accept: application/json" -H "Content-type: application/json" -X POST http://localhost:8080/CallCenterSolution/api/companymanagement/getCompanySettings
+
+
+curl -v -H "Accept: application/json" -H "Content-type: application/json" -X POST -d "{\"user\" :{\"first_name\":\"firstname\",\"last_name\":\"lastname\",\"email\":\"email@email.com\",\"password\":\"app123\",\"password_confirmation\":\"app123\"}}"  http://localhost:3000/api/1/users
+
+http://www.cnblogs.com/sharpxiajun/p/4133462.html
+https://www.infoworld.com/article/3196070/node-js/10-javascript-concepts-nodejs-programmers-must-master.html
+https://www.w3schools.com/js/js_function_closures.asp
+
+
+
+https://jakarta332j.platon.fsi.co.jp/redmine/my/page
+eiri/Fsieiri.1
+
+
+
+志位　下位
+A closure is a function having access to the parent scope, even after the parent function has closed.
+
+
+　　　
+
+
+https://www.w3schools.com/js/js_function_closures.asp
+
+http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html
+
+https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/00143449934543461c9d5dfeeb848f5b72bd012e1113d15000
+
+
+
+Richard Sutton:Reinforcement Learning
+http://incompleteideas.net/sutton/book/
+http://incompleteideas.net/sutton/book/bookdraft2017nov5.pdf
+
+
+http://www.zhibimo.com/explore/books
+http://www.zhibimo.com/read/xiaolai/a-new-english-reading-handbook/
+
+
+http://localhost:8080/CallCenterSolution/api/lexicon/download/pdf/1
+http://localhost:8080/CallCenterSolution/api/lexicon/download/csv/2
+
+
+
+download CSV:
+https://stackoverflow.com/questions/10100936/file-downloading-in-restful-web-services
+http://jqueryfiledownload.apphb.com/
+http://johnculviner.com/jquery-file-download-plugin-for-ajax-like-feature-rich-file-downloads/
+https://stackoverflow.com/questions/34586671/download-pdf-file-using-jquery-ajax
+
+
+
+
+python -m pip
+http://jsfiddle.net/e3nk137y/1434/
+
+首相、米国の対北妥協にクギ
+
+#リカイアス認証URL
+recaius.url.auth = https://api.recaius.jp/auth/v2
+#リカイアス音声解析URL
+recaius.url.speech = https://api.recaius.jp/asr/v2
+#リカイアス要約URL
+recaius.url.digest = https://api.recaius.jp/iip/v2
+
+
+
+
+function curry(func, arity = func.length) {
+  return function (...args) {
+    if (args.length >= arity) {
+      return func(...args);
+    } else {
+      return curry(func.bind(this, ...args), arity - args.length);
+    }
+  };
+}
+
+const multiply = curry((a, b, c) => a * b * c);
+
+
+利用時間確認画面に移動します。入力内容は保存されません。よろしいですか？
+
+https://www.w3schools.com/cssref/tryit.asp?filename=trycss_overflow
+https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_css_scrolltop_set
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_scroll_indicator
+
+
+algorithm
+algebra 
+Algebraic geometry
+
+(1-3)	返信内容をユーザリストに表示する。（図 9-3）
+
+もしもし。
+お電話ありがとうございます。
+サポートセンター土田が承ります。
+すいません
+解約について聞きたいのですが
+解約の方法に関するご質問ですね。
+解約は購入方法によって異なるため、
+お客様の購入状況を確認させていただきます。
+お客様はスマートフォンのアプリストアでの購入になりますでしょうか
+いえ、
+ＥＣサイトで購入しました。
+
+Ph3フォルダを新規；　「試験項目.xlsx」に実施履歴をクリア；　利用時間確認画面試験項目を新規作成
+
+1.	ナレッジタイトルが一つの場合、ナレッジ検索処理終了し、次のステップへ飛ぶ（「3.3.6ナレッジ詳細表示処理」参照）。
+
+
+
+皆様
+
+お疲れ様です。ライフです。
+
+この度、本日をもちまして
+退場することとなりました。
+
+約4年間、皆様にはご指導、ご鞭撻を賜り
+大変お世話になりました。
+忙しい中でも楽しく働くことが出来たこと、
+私にとって、とても貴重な経験でした。　
+
+皆様のご活躍を心からお祈り申し上げます。
+
+本当にありがとうございました。
+
+平成30年3月30日　背景色　九日
+
+人件費　
+人手不足　増します　増す　
+この種類のオーディオファイルはサポットされていません。
+
+11. 問合せナレッジ参照回数更新API
+
+正当防衛　閾値　
+
+function hoge(){
+    console.log("3秒経ちました！");
+}
+
+chatbot:
+http://localhost:8080/CallCenterSolution/guest/inquiry.html?cc=c6790741e136600a2b87489ad893a39617cdc22ca005812959d9652181a46be2
+
+松竹梅
+認証,オペレーション画面,ナレッジ登録画面,ナレッジ管理画面,ナレッジ一括登録画面,ユーザ辞書画面,企業設定画面,利用時間確認画面,ライセンス管理画面,企業管理画面,代理店管理画面,通話履歴管理画面,チェックワード管理画面,お問い合わせ画面,その他
+
+等しい
+入力欄に半角数字以外を入力できないようにする
+解けなかったとの噂がある難問です。
+放された
+分割　分解　
+
+
+　　　/WEB-INF/conf/application-security.context.xml
+　　　/ui/admin/companySetting.html
+　　　/ui/app/ccs.css
+　　　/ui/app/common/ccs.js
+　　　/ui/app/companySetting.js
+
+
+#####################################################
+C:\pleiades\tortoiseSVN\branches\ph4\CallCenterSolution\src\cloud\optim\callcentersolution\api
+　　　\app\company\CompanyRequest.java
+　　　\app\company\CompanyResponse.java
+　　　\app\company\CompanyRestService.java
+　　　\app\company\CompanyRestValidator.java
+　　　\app\company\CompanyService.java
+
+
+C:\pleiades\tortoiseSVN\branches\ph4\CallCenterSolution\war
+　　　ui/app/common/ccs.js
+　　　ui/app/layout.js
+　　　ui/app/parts/sidebar.html
+　　　\ui\admin\companySetting.html
+
+<style>
+
+.red {
+    color: white;
+    background-color: red;
+} 
+
+.green {
+    color: white;
+    background-color: green;
+} 
+
+.blue {
+    color: white;
+    background-color: blue;
+} 
+
+.orange {
+    color: white;
+    background-color: orange;
+} 
+
+.yellow {
+    color: black;
+    background-color: yellow;
+} 
+
+.pink {
+    color: black;
+    background-color: pink;
+} 
+</style>
+</html>
+
+#####################################################
+
+$('[data-call-log-detail-id="616"] span.detail-txt').html(function(index,html){
+	let keyword="と"
+	return html.replace(new RegExp(keyword,"g"),`\<font color=\"tomato\"\>${keyword}\<\/font\>`);
+});
+
+
+$('[data-call-log-detail-id] span.detail-txt').html(function(index,html){
+	let keyword="の"
+	return html.replace(new RegExp(keyword,"g"),`\<font color=\"tomato\"\>${keyword}\<\/font\>`);
+});
+
+$('[data-call-log-detail-id] span.detail-txt').html(function(index,html){
+	let keyword="の"
+	return html.replace(new RegExp(keyword,"g"),`\<span class=\"red\"\>${keyword}\<\/span\>`);
+});
+
+http://jsfiddle.net/cse_tushar/6FzSb/
+$(document).ready(function () {
+    size_li = $("#myList li").size();
+    x=5;
+    $('#myList li:lt('+x+')').show();
+    $('#loadMore').click(function () {
+        x= (x+5 <= size_li) ? x+5 : size_li;
+        $('#myList li:lt('+x+')').show();
+    });
+    $('#showLess').click(function () {
+        x=(x-5<=0) ? 5 : x-5;
+        $('#myList li').not(':lt('+x+')').hide();
+    });
+});
+
+
+            <div class="chat-message clearfix text-left faq-area">
+                <p style="font-weight:bold">よくある質問</p>
+                <ul id="knowledgeFaqTitleArea"></ul>
+
+				<div style="text-align: right;"  >
+	                <a style="text-decoration: underline; color: black;" >▲少ない表示</a> &nbsp; &nbsp;
+	                <a style="text-decoration: underline; color: black;" >▼もっと見る</a>
+				</div>
+            </div>
+
+
+
+			// 質問する
+			messageSend : {
+
+				selector : "#messageSend",
+				handler : [
+					[ "click", messageSend ]
+				],
+			},
+
+			// もっと見る
+			showMore : {
+
+				selector : "#showMore",
+				handler : [
+					[ "click", showMore ]
+				],
+			},
+
+window.scrollTo(0,document.body.scrollHeight);
+
+window.scrollTo(0,0);
+
+
+
+insert into callcentersolution.tbl_t_company_management(`UPDATE_DATE`,`COMPANY_ID`,`COMPANY_NAME`,`AGENCY_COMPANY_ID`,`RECAIUS_LICENSE_ID`,`RECAIUS_MODEL_ID`,`ENERGY_THRESHOLD`,`HASHED_COMPANY_ID`,`SAVE_VOICE`,`PERMIT_IP_ADDRESS`,`VOICE_KEEP_DAYS`,`CREATE_DATE`,`CREATE_USER_ID`,`CREATE_USER_NAME`,`UPDATE_USER_ID`,`UPDATE_USER_NAME`) values ('2018-01-11T17:23:03','optim20172017','optim','optim20172017',1,2340,500,null,1,null,10,'2018-01-11T17:12:06','admin','admin','admin','admin')
+
+$("#ddrp1").change(function() {
+    // Pure JS
+    var selectedVal = this.value;
+    var selectedText = this.options[this.selectedIndex].text;
+
+    // jQuery
+    var selectedVal = $(this).find(':selected').val();
+    var selectedText = $(this).find(':selected').text();
+});
+
+data.component.startFileRecognize.$element.prop('disabled', true);
+		data.component.startFileRecognize.$element.css('cursor', 'not-allowed');
+
+		data.component.save.$element.prop('disabled', true);
+		data.component.save.$element.css('cursor', 'not-allowed');
+
+		// 録音停止ボタンを非活性にする
+		data.component.endCall.$element.prop('disabled', true);
+		data.component.endCall.$element.css("cursor", "not-allowed").fadeTo(200,0.2);
+
+		data.component.aPlay.$element.prop('disabled', true);
+		data.component.aPlay.$element.css('cursor', 'not-allowed');
+
+		data.component.aPause.$element.prop('disabled', true);
+		data.component.aPause.$element.css('cursor', 'not-allowed');
+
+		data.component.aStop.$element.prop('disabled', true);
+		data.component.aStop.$element.css('cursor', 'not-allowed');
+
+金曜日の気分　ボロボロ　アボカド　羽生　葛飾北斎　喜多方　
+
+$(".fa-play-circle").css("background-color","red")
+
+
+$("[currTime]").filter(function( index ) {
+    return index % 2 === 1;
+  }).css( "background-color", "red" );
+  
+  
+$("[currTime]").filter(function(  ) { 
+    //console.log($(this).attr('currtime')>1000);
+    return $(this).attr('currtime')>1000 ;
+  }).css( "background-color", "red" );
+  
+
+[1, 2, 3, 4, 5].filter(function (elem) {
+  return (elem >= 3);
+})[0]
+
+<script>
+  $("#table td").bind('click', function(){
+    $tag_td = $(this)[0];
+    $tag_tr = $(this).parent()[0];
+    console.log("%s列, %s行", $tag_td.cellIndex, $tag_tr.rowIndex);
+  });
+  
+    $("#table td").bind('click', function(){
+    //$tag_td = $(this)[0];
+    //$tag_tr = $(this).parent()[0];
+    
+    $tag_td = this;
+    $tag_tr = this.parentElement;
+    console.log("%s列, %s行", $tag_td.cellIndex, $tag_tr.rowIndex);
+  });
+</script>
+
+$('#myTable tr:last').after('<tr>...</tr><tr>...</tr>');
+
+泉岳寺 
+浅草寺
+
+旭岳 黄色　紫　緑
+
+WAVファイルを無音区間で自動分割 java
+真夏日
+
+/filler/file/csv/FILLER_DICTIONARY/
+csv
+FILLER_DICTIONARY
+
+通過させるために埋め込む
+
+1.2.3.11
+3.4.5.6
+
+
+10.2.120.58
+http://10.2.120.58:8080/AIVoiceAnalytics/ui/useTime.html
+神奈川沖　浪裏
+
+/trunk/product/AIVoiceAnalytics/war/ui/app/lib/optim/analyze_result_manager.js
+
+
+http://10.2.120.69:8080/AIVoiceAnalytics/ui/speech.html?#switch-mode-1
+
+\\10.2.120.103\Public\OPTIM\コールセンター支援システム\99_作業用\reiff
+
+
+
+
+怠い	加えた
+
+先生に頼まれた資料を、昨日までに渡さなくちゃいけなかったんだけどいろいろあって渡せなくて、それで怒られちゃったの。
+
+	怒る　叱る　聴解　
+
+
+紛らわしい
+辿る
+
+
+音声解析履歴画面のアイコンは以下にしておいてもらえますか。
+fa-edit 
+フィラー管理画面のアイコンは、以下でお願いします。
+fa-eraser
+
+
+
+
+
+0:完全一致
+1:前方一致
+2:後方一致
+3:部分一致
+
+
+
+
+
+
+スケジュールに影響を及ぼす　
+スケジュールに影響を与えない　
+
+
+
+本番とステージング：
+https://ai-voice-analytics.optim.cloud/AIVoiceAnalytics/ui/speech.html
+https://ranunculus-callcenter.optim-test.com/AIVoiceAnalytics/ui/speech.html
+https://ranunculus-callcenter.optim-test.com/AIVoiceAnalytics/ui/agency/useTime.html
+
+本番とステージング：
+https://ranunculus-callcenter.optim.cloud/CallCenterSolution/ui/sys/usetime.html
+https://ranunculus-callcenter.optim-test.com/CallCenterSolution/ui/operation.html
+　　　
+
+		 $( "<li style='text-align: right;text-decoration: underline;'></li>" ).
+			addClass( "clearfix" ).
+			append(
+				$( "<span>▼</span>" ),
+				$( "<a style='color: black;'></a>" ).
+				addClass( "card-link" ).
+				attr( { "href" : "javascript:;",
+						"onclick":"_searchKnowledgeAllFaq()",
+						"id" : "showMore",
+					} ).
+				text( "もっと見る" )
+
+
+			).appendTo( $parent );
+
+世界遺産富士山と山中湖温泉　被らない　重複　恰好　
+https://www.hatobus.com/int/jp/detail/r345/
+
+
+
+
+歪みました
+
+お互いに　　
+
+お疲れ様です。音声解析履歴管理画面の「ファイル出力」ボタンについて、今日、仕様書の記述が追加されます。藤井さんが今日中に修正して、コミットしてくれますので、明日、もう一度確認して、音声解析履歴管理画面の仕様書に反映して下さい。レビューは、明後日に行う事にします。
+七ヶ浜町
+
+
+	/** 音声解析ログダウンロード内容なし */
+	SPEECH_LOG_DWONLOAD_NO_DATA("21_12_004"),
+
+	// ---------- ユーザ辞書出力 ----------
+
+	/** フィラー情報CSVフォーマット不正 */
+	FILLER_CSV_FORMAT_ERROR( "21_13_001" ),
+
+	/** フィラー情報CSV出力失敗 */
+	FILLER_CSV_DOWNLOAD_ERROR ( "21_13_002" ),
+
+	/** フィラー情報更新失敗 */
+	FILLER_UPDATE_ERROR( "21_13_003" ),
+
+抜きさった　　インターネット　　　　
+
+東京都度　
+社員番号：10005981
+PC本体の資産管理番号：37921700247149
+IPアドレス：10.2.120.69
+MACアドレス：40-B0-34-41-C3-8B
+
+  356  docker run -itd -P --name mongo-server mongo bash
+  357  docker ps -a
+  358  docker exec -it mongo-server bash
+  
+  
+docker run -p 27017:27017 --name mongo_instance_001 -d mongo --smallfiles
+  
+一生懸命　お互い　倒れ方　
+
+芥川賞
+植木賞
+蹴り続けた　地面　再び偉大　立夏　懸命に蹴り続けた　
+
+山賊属さない
+
+悪天候味方に逆転＝川内「運命感じた」―ボストン・マラソン
+
+　冬のような寒さと強い風雨。灰色の過酷な風景が、川内には持ち味の粘りを発揮する最高の舞台に見えた。「寒いコンディションは得意。3位が目標だったけれど、優勝するチャンスがあると思った」。悪条件をものともせず、力強い走りでゴールを駆け抜けた。
+
+　序盤はトップに立って集団を引っ張る場面もあったが、25キロすぎからペースが落ち、昨季の覇者キルイに1分以上も引き離された。それでも「気持ちを切らなければ、きょうのコンディションならいける」と自分を信じ、水が浮いた地面を懸命に蹴り続けた。
+
+　コースは昨年末にテストランをして熟知。勝負は四つの坂を越えた終盤に来ると見ていた。狙い通り、市街地に入った40キロ付近。失速したキルイを視界に捉えると、風のように抜きさった。
+
+　実業団に属さない「市民ランナー」。トレーニング代わりに数多くのレースをこなす独自のスタイルを貫き、昨年はマラソンを12度走った。
+
+　地道な努力が実り、海外のメジャーレースを初制覇。「僕が勝つことを予想した人は誰もいなかったと思う。瀬古さんが勝った1987年に私が生まれたので運命を感じている」。伝統のレースで輝きを放った31歳のランナーは、表彰台で涙を流して右手を突き上げた。（ボストン時事）。　
+
+
+聊聊 Spring Boot 2.0 的 WebFlux
+https://www.bysocket.com/?p=1987
+
+取代Web MVC的Flux？
+https://www.ithome.com.tw/voice/122082
+
+使用 Reactor 进行反应式编程
+https://www.ibm.com/developerworks/cn/java/j-cn-with-reactor-response-encode/index.html
+
+使用 Spring 5 的 WebFlux 开发反应式 Web 应用
+https://www.ibm.com/developerworks/cn/java/spring5-webflux-reactive/index.html
+
+WebFlux framework
+https://docs.spring.io/spring/docs/5.0.0.BUILD-SNAPSHOT/spring-framework-reference/html/web-reactive.html
+
+Web on Reactive Stack
+https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html#spring-webflux
+
+@Ivony
+ 老师的一句话概括很精辟：
+URL定位资源，用HTTP动词（GET,POST,DELETE,DETC）描述操作。
+
+
+
+
+
+--- 简洁版 ---
+
+0. REST不是"rest"这个单词，而是几个单词缩写。但即使那几个单词说出来，也无法理解在说什么 -_-!! （不是要贬低人，是我自己也理解困难）；
+1. REST描述的是在网络中client和server的一种交互形式；REST本身不实用，实用的是如何设计 RESTful API（REST风格的网络接口）；
+2. Server提供的RESTful API中，URL中只使用名词来指定资源，原则上不使用动词。“资源”是REST架构或者说整个网络处理的核心。比如：
+http://api.qc.com/v1/newsfeed: 获取某人的新鲜; 
+http://api.qc.com/v1/friends: 获取某人的好友列表;
+http://api.qc.com/v1/profile: 获取某人的详细信息;3. 用HTTP协议里的动词来实现资源的添加，修改，删除等操作。即通过HTTP动词来实现资源的状态扭转：
+GET    用来获取资源，
+POST  用来新建资源（也可以用于更新资源），
+PUT    用来更新资源，
+DELETE  用来删除资源。比如：
+DELETE http://api.qc.com/v1/friends: 删除某人的好友 （在http parameter指定好友id）
+POST http://api.qc.com/v1/friends: 添加好友
+UPDATE http://api.qc.com/v1/profile: 更新个人资料
+
+禁止使用： GET http://api.qc.com/v1/deleteFriend 图例：
+
+
+
+4. Server和Client之间传递某资源的一个表现形式，比如用JSON，XML传输文本，或者用JPG，WebP传输图片等。当然还可以压缩HTTP传输时的数据（on-wire data compression）。
+5. 用 HTTP Status Code传递Server的状态信息。比如最常用的 200 表示成功，500 表示Server内部错误等。
+主要信息就这么点。最后是要解放思想，Web端不再用之前典型的PHP或JSP架构，而是改为前段渲染和附带处理简单的商务逻辑（比如AngularJS或者BackBone的一些样例）。Web端和Server只使用上述定义的API来传递数据和改变数据状态。格式一般是JSON。iOS和Android同理可得。由此可见，Web，iOS，Android和第三方开发者变为平等的角色通过一套API来共同消费Server提供的服务。
+
+
+--- 详细版 ---
+
+先说REST名称
+REST -- REpresentational State Transfer
+首先，之所以晦涩是因为前面主语被去掉了，全称是 Resource Representational State Transfer：通俗来讲就是：资源在网络中以某种表现形式进行状态转移。分解开来：
+Resource：资源，即数据（前面说过网络的核心）。比如 newsfeed，friends等；
+Representational：某种表现形式，比如用JSON，XML，JPEG等；
+State Transfer：状态变化。通过HTTP动词实现。
+REST的出处
+Roy Fielding的毕业论文。这哥们参与设计HTTP协议，也是Apache Web Server项目（可惜现在已经是 nginx 的天下）的co-founder。PhD的毕业学校是 UC Irvine，Irvine在加州，有着充裕的阳光和美丽的海滩，是著名的富人区。Oculus VR 的总部就坐落于此（虚拟现实眼镜，被FB收购，CTO为Quake和Doom的作者 John Carmack）。
+众说周知，论文都是晦涩难懂的。当年在CMU读书的时候，很多课程都会安排每周两篇的Paper review。现在回想起来每次写Paper review都是我最为痛苦的时候。REST这篇博士论文毫无疑问更甚。
+论文地址：Architectural Styles and the Design of Network-based Software Architectures
+REST章节：Fielding Dissertation: CHAPTER 5: Representational State Transfer (REST)
+REST那章我初读了，整个论文没有读完 =_=
+
+
+
+RESTful API
+实用的是如何正确地理解 RESTful架构和设计好RESTful API。
+首先为什么要用RESTful结构呢？
+大家都知道"古代"网页是前端后端融在一起的，比如之前的PHP，JSP等。在之前的桌面时代问题不大，但是近年来移动互联网的发展，各种类型的Client层出不穷，RESTful可以通过一套统一的接口为 Web，iOS和Android提供服务。另外对于广大平台来说，比如Facebook platform，微博开放平台，微信公共平台等，它们不需要有显式的前端，只需要一套提供服务的接口，于是RESTful更是它们最好的选择。在RESTful架构下：
+
+
+Server的API如何设计才满足RESTful要求?
+首先是简洁版里面的那几点。外加一些附带的 best practices：
+1. URL root:
+https://example.org/api/v1/*
+https://api.example.com/v1/*2. API versioning:
+可以放在URL里面，也可以用HTTP的header：
+/api/v1/
+3. URI使用名词而不是动词，且推荐用复数。
+BAD
+/getProducts
+/listOrders
+/retrieveClientByOrder?orderId=1
+GOOD
+GET /products : will return the list of all products
+POST /products : will add a product to the collection
+GET /products/4 : will retrieve product #4
+PATCH/PUT /products/4 : will update product #4
+4. 保证  HEAD 和 GET 方法是安全的，不会对资源状态有所改变（污染）。比如严格杜绝如下情况：
+GET /deleteProduct?id=1
+5. 资源的地址推荐用嵌套结构。比如：
+GET /friends/10375923/profile
+UPDATE /profile/primaryAddress/city6. 警惕返回结果的大小。如果过大，及时进行分页（pagination）或者加入限制（limit）。HTTP协议支持分页（Pagination）操作，在Header中使用 Link 即可。
+7. 使用正确的HTTP Status Code表示访问状态：HTTP/1.1: Status Code Definitions
+8. 在返回结果用明确易懂的文本（String。注意返回的错误是要给人看的，避免用 1001 这种错误信息），而且适当地加入注释。
+9. 关于安全：自己的接口就用https，加上一个key做一次hash放在最后即可。考虑到国情，HTTPS在无线网络里不稳定，可以使用Application Level的加密手段把整个HTTP的payload加密。有兴趣的朋友可以用手机连上电脑的共享Wi-Fi，然后用Charles监听微信的网络请求（发照片或者刷朋友圈）。
+如果是平台的API，可以用成熟但是复杂的OAuth2，新浪微博这篇：授权机制说明
+
+各端的具体实现
+如上面的图所示，Server统一提供一套RESTful API，web+ios+android作为同等公民调用API。各端发展到现在，都有一套比较成熟的框架来帮开发者事半功倍。
+
+-- Server --
+推荐： Spring MVC 或者 Jersey 或者 Play Framework
+教程：
+Getting Started · Building a RESTful Web Service
+
+-- Android --
+推荐： RetroFit ( Retrofit ) 或者 Volley ( mcxiaoke/android-volley · GitHub Google官方的被block，就不贴了 ) 
+教程：
+Retrofit โ Getting Started and Create an Android Client
+快速Android开发系列网络篇之Retrofit
+
+-- iOS --
+推荐：RestKit ( RestKit/RestKit · GitHub )
+教程：
+Developing RESTful iOS Apps with RestKit
+
+-- Web --
+推荐随便搞！可以用重量级的AngularJS，也可以用轻量级 Backbone + jQuery 等。
+教程：http://blog.javachen.com/2015/01/06/build-app-with-spring-boot-and-gradle/
+
+参考：
+[1]: Some REST best practices
+[2]: GitHub API v3
+[3]: tlhunter/consumer-centric-api-design · GitHub
+
+
+
+就是用URL定位资源，用HTTP描述操作。
+
+
+
+
+
+
+
+
+看Url就知道要什么
+看http method就知道干什么
+看http status  code就知道结果如何
+
+
+
+
+机器学习，深度学习，游泳
+156 人赞同了该回答
+看了很多答案，讲的很详细，但是初学者一般都看的不是很懂。
+
+我在这里的答案主要解释什么是REST? 为什么要用REST？不包括具体该如何使用REST风格，你可以在网上看教程去学习相关知识。
+
+
+要解释什么是REST，你应该先了解什么是API（Application Programming Interface,应用程序编程接口），形象一点说就是像一个公司比如腾讯，阿里巴巴之类，他们可以提供一个API，然后我们或者一些其他的小公司可以编一个软件去跟这个接口（API）进行相连或交互。举个例子，比如你可以用手机的其他软件分享内容到微信朋友圈或者新浪微博，这些软件就是与微信和微博的api进行了交互。
+
+
+知道了API，那么就容易理解REST了。REST是什么呢？ 它是一种架构风格，腾讯公司或其他公司建立API时要遵守的一种规则/风格，当然也有其他规则可以用。
+
+
+现在稍微具体一下什么是REST架构风格。REST也就是Representational State Transfer（表现层状态转移）。要具体什么事REST，我们又必须提到Web（大神请忽略这里，因为我这篇是想带0基础的人入门的），因为REST是以Web为平台的。
+
+
+Web是什么: 分布式信息系统为超文本文件和其他对象（资源）提供访问入口
+
+资源是Web架构的关键点,需要 3个操作  识别(identify) 表示(represent) 交互(interact with),通过这三个操作，又引出三个概念uri（统一资源标识符包括url和urn）识别资源；representation （例如html，xml，图片，视频等等）表示资源；通过协议（包括http，ftp等等）与资源进行交互。
+
+
+所以REST就是选择通过使用http协议和uri，利用client/server model对资源进行CRUD (Create/Read/Update/Delete)增删改查操作。
+
+
+那么为什么要使用REST风格呢？肯定是因为它的优点，所以才选择使用它呀。因此现在先介绍它的优点，
+
+要介绍它的优点又要提到它的六个限制，我看其他答案只提到了限制，但是没有写限制的好处，在这里我列出限制和它的好处：
+
+1.客户-服务器（Client-Server）客户端服务器分离
+
+优点，提高用户界面的便携性（操作简单）
+
+         通过简化服务器提高可伸缩性（高性能，低成本）
+
+         允许组件分别优化（可以让服务端和客户端分别进行改进和优化）
+
+2.无状态（Stateless）
+
+从客户端的每个请求要包含服务器所需要的所有信息
+
+优点：
+
+提高可见性（可以单独考虑每个请求）
+
+提高了可靠性（更容易从局部故障中修复）
+
+提高可扩展性（降低了服务器资源使用）
+
+3.缓存（Cachable）
+
+服务器返回信息必须被标记是否可以缓存，如果缓存，客户端可能会重用之前的信息发送请求。
+
+优点：
+
+减少交互次数
+
+减少交互的平均延迟
+
+4.分层系统（Layered System）
+
+系统组件不需要知道与他交流组件之外的事情。封装服务，引入中间层。
+
+优点：
+
+限制了系统的复杂性
+
+提高可扩展性
+
+5.统一接口（Uniform Interface）
+
+优点：
+
+提高交互的可见性
+
+鼓励单独改善组件
+
+6.支持按需代码（Code-On-Demand 可选）
+
+优点：
+
+提高可扩展性
+
+因为其他答案已经提到了一些概念，所以我没有多写。
+
+
+推荐书籍 REST in practice有中文版的，如果英语没有达到像看中文一样，我还是推荐先看中文的，效率会高一点
+
+如果去网上搜索网页，字数不多的文章，我建议看英文版的，写的会好一点。
+
+
+一些api的例子：
+
+twitter 的api  https://dev.twitter.com/rest/public
+
+
+
+季文昊
+个人博客：http://www.predatorray.me/
+162 人赞同了该回答
+楼上已经有人一一列举解释了REST的约束（Client-Server、Stateless、Cache、Uniform Interface、Layered System、Code-on-Demand），我就不具体具体展开约束这一个块了，准备用一个简单的列子来描述什么是Representation，什么是State，以及什么是Representation State Transfer。
+
+例如我订阅了一个人的博客，想要获取他发表的所有文章（这里『他发表的所有文章』就是一个资源Resource）。于是我就向他的服务发出请求，说『我要获取你发表的所有文章，最好是atom格式的』，这时候服务器向你返回了atom格式的文章列表第一页（这里『atom格式的文章列表』就是表征Representation）。
+
+你看到了第一页的页尾，想要看第二页，这时候有趣的事情就来了。如果服务器记录了应用的状态（stateful），那么你只要向服务询问『我要看下一页』，那么服务器自然就会返回第二页。类似的，如果你当前在第二页，想服务器请求『我要看下一页』，那就会得到第三页。但是REST的服务器恰恰是无状态的（stateless），服务器并没有保持你当前处于第几页，也就无法响应『下一页』这种具有状态性质的请求。因此客户端需要去维护当前应用的状态（application state），也就是『如何获取下一页资源』。当然，『下一页资源』的业务逻辑必然是由服务端来提供。服务器在文章列表的atom表征中加入一个URI超链接（hyper link），指向下一页文章列表对应的资源。客户端就可以使用统一接口（Uniform Interface）的方式，从这个URI中获取到他想要的下一页文章列表资源。上面的『能够进入下一页』就是应用的状态（State）。服务器把『能够进入下一页』这个状态以atom表征形式传输（Transfer）给客户端就是表征状态传输（REpresentational State Transfer）这个概念。
+
+举个具体API的例子：
+请求：
+GET /posts HTTP/1.1
+Accept: application/atom+xml
+
+响应：
+HTTP/1.1 200 OK
+Content-Type: application/atom+xml
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Posts</title>
+    <link href="http://example.org/posts" rel="self" />
+    <link href="http://example.org/posts?pn=2" rel="next" />
+
+    <id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
+    <updated>2003-12-13T18:30:02Z</updated>
+    <entry>
+        <title>Post XXX</title>
+        <link href="http://example.org/post-xxx" />
+        <id>urn:uuid:1225c695-cfb8-4ebb-aaaa-80da344efa6a</id>
+        <updated>2003-12-13T18:30:02Z</updated>
+        <content type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">
+                <p>This is the post content.</p>
+            </div>
+        </content>
+    </entry>
+    <entry>...</entry>
+</feed>
+注意上面atom格式中的多个<link>元素，它们分别定义了当前状态下合法的状态转移。
+
+例如，这是一个指向自己的链接，其中rel属性指定了状态转移的关系为自身。
+<link href="http://example.org/posts" rel="self" />
+这是下一页的链接，
+<link href="http://example.org/posts?pn=2" rel="next" />
+如果当前不是第一页的话，就会有类似如下的链接来表示上一页，
+<link href="http://example.org/posts?pn=2" rel="prev" />
+而这个是某一篇文章的链接，
+<link href="http://example.org/post-xxx" />
+
+总结一下，就是：
+服务器生成包含状态转移的表征数据，用来响应客户端对于一个资源的请求；
+客户端借助这份表征数据，记录了当前的应用状态以及对应可转移状态的方式。
+当然，为了要实现这一系列的功能，一个不可或缺的东西就是超文本（hypertext）或者说超媒体类型（hypermedia type）。这绝对不是一个简简单单的媒体类型（例如，JSON属性列表）可以做到的。（参考：REST APIs must be hypertext-driven）
+
+因此，像下面这种API，
+1、获取文章
+
+请求：
+GET /blog/post/{postId} HTTP/1.1
+
+响应：
+HTTP/1.1 200 OK
+{
+    "title": "foobar",
+    "content": "foobar",
+    "comments": ["", "", ""]
+}
+
+2、发布文章
+
+请求：
+POST /blog/post HTTP/1.1
+{
+    "title": "foobar",
+    "content": "foobar",
+    "comments": ["", "", ""]
+}
+
+响应：
+HTTP/1.1 201 CREATED
+
+绝对不是RESTful！
+绝对不是RESTful！
+绝对不是RESTful！
+（重要的事情要说三遍）
+
+=====2015-06-19更新=====
+
+在REST in Practice (豆瓣)书中介绍了一种叫做Richardson Maturity Model的Web服务成熟度模型。而上面的这种API属于其第二层HTTP Verbs，RESTful的API属于第三层Hypermedia Controls。相比第二层，第三层的Web服务具有一个很明显的优势，客户端与服务端交互解耦。服务端可以仅仅提供单一的入口，客户端只要依次“遍历”超链接，就可以完成对应的合法业务逻辑。当资源的转换规则发送变化时（如某一页由于历史文章被删除了而没有下一页，又或者某篇文章转储在了其他网站上），客户端不需要作额外的更新升级，只需要升级服务端返回的超链接即可。
+
+=====华丽的分割线=====
+最后发几个链接（论文、一本介绍很详细的好书以及一个RESTful API）供大家参考
+Fielding Dissertation: CHAPTER 5: Representational State Transfer (REST)
+
+
+
+
+
+
+首先要明确一点：REST 实际上只是一种设计风格，它并不是标准。（所以你可以看到网上一大堆的各种最佳实践，设计指南，但是没有人说设计标准）。aisuhua/restful-api-design-references · GitHub
+
+说说几个重要的概念：
+
+1、REST 是面向资源的，这个概念非常重要，而资源是通过 URI 进行暴露。
+URI 的设计只要负责把资源通过合理方式暴露出来就可以了。对资源的操作与它无关，操作是通过 HTTP动词来体现，所以REST 通过 URI 暴露资源时，会强调不要在 URI 中出现动词。
+
+比如：左边是错误的设计，而右边是正确的
+GET /rest/api/getDogs --> GET /rest/api/dogs 获取所有小狗狗 
+GET /rest/api/addDogs --> POST /rest/api/dogs 添加一个小狗狗 
+GET /rest/api/editDogs/:dog_id --> PUT /rest/api/dogs/:dog_id 修改一个小狗狗 
+GET /rest/api/deleteDogs/:dog_id --> DELETE /rest/api/dogs/:dog_id 删除一个小狗狗 
+左边的这种设计，很明显不符合REST风格，上面已经说了，URI 只负责准确无误的暴露资源，而 getDogs/addDogs...已经包含了对资源的操作，这是不对的。相反右边却满足了，它的操作是使用标准的HTTP动词来体现。
+
+2、REST很好地利用了HTTP本身就有的一些特征，如HTTP动词、HTTP状态码、HTTP报头等等
+REST API 是基于 HTTP的，所以你的API应该去使用 HTTP的一些标准。这样所有的HTTP客户端（如浏览器）才能够直接理解你的API（当然还有其他好处，如利于缓存等等）。REST 实际上也非常强调应该利用好 HTTP本来就有的特征，而不是只把 HTTP当成一个传输层这么简单了。
+
+HTTP动词
+GET     获取一个资源 
+POST    添加一个资源 
+PUT     修改一个资源 
+DELETE  删除一个资源 
+实际上，这四个动词实际上就对应着增删改查四个操作，这就利用了HTTP动词来表示对资源的操作。
+
+HTTP状态码
+200 OK 
+400 Bad Request 
+500 Internal Server Error
+在 APP 与 API 的交互当中，其结果无非就三种状态：
+所有事情都按预期正确执行完毕 - 成功
+APP 发生了一些错误 – 客户端错误
+API 发生了一些错误 – 服务器端错误
+这三种状态与上面的状态码是一一对应的。
+
+HTTP报头
+Authorization 认证报头 
+Cache-Control 缓存报头 
+Cnotent-Type  消息体类型报头 
+......
+报头还有很多，不一一列举。HTTP报头是描述HTTP请求或响应的元数据，它的作用是客户端 与 服务器端进行相互通信时，告诉对方应该如何处理本次请求。
+
+3、超媒体
+老实说，这个词汇我到目前还有没搞得全懂。那也说说自己的理解吧，不一定准确哦，有错误希望指出。
+”超媒体“ 你没听说过没关系，”超链接“ 你一定不会陌生。简单来说，”超链接“ 是实现超媒体中的一种方式。”超媒体“希望达到一种就是说在 REST API 中把所有资源给链接起来。它就犹如你打开一个网站的首页，你难道看到的只有首页吗？NO !, 不是的，你可以通过首页查看商品、查看文章、查看论坛。”超媒体“ 就是做这个事情，它利用 API 把所有资源的关系给链接起来了，你看到不会只是一个独立的资源，而是关系网中的一个资源。
+”超媒体“ 有点高大上了，老实说，就算你够牛X，写出了一个非常棒的符合”超媒体“的REST API，你的用户即开发者，也不一定能够接受你这种高大上的设计。当然，我相信未来也许可以普及了。
+
+4、最后
+上面只是简单说了一些自己最近做REST的一些体验吧。有关于REST的介绍文章实在是太多了，当然很多写得也非常不错，我这里 aisuhua/restful-api-design-references · GitHub 收集了一些，喜欢的话可以看看，有更好的可以推荐给我。对于上面的回答，有任何不对，都希望您能指出，大家共同进步，谢谢大家！
+
+
+
+
+
+
+
+
+专业造轮子，拉黑抢前排。http://gaclib.net
+97 人赞同了该回答
+意思就是，要把一个网站的内容当成一棵树，父节点通过一个map<string, vector<fuck>>来管理子节点，然后每一个map都提供Find, Insert, Replace, Remove四个函数。然后直接翻译成HTTP的语言，就是你见到的那些东西了。你用URL来定位到其中一个map里面的vector，然后开始操。
+
+
+
+
+
+
+
+
+我写过一篇 RESTful 架构风格概述 ，阐述我对RESTful的理解，主要的一部分内容如下，有兴趣的话欢迎点击链接查看全文：
+
+
+1. RESTful架构风格
+
+RESTful架构风格最初由Roy T. Fielding（HTTP/1.1协议专家组负责人）在其2000年的博士学位论文中提出。HTTP就是该架构风格的一个典型应用。从其诞生之日开始，它就因其可扩展性和简单性受到越来越多的架构师和开发者们的青睐。一方面，随着云计算和移动计算的兴起，许多企业愿意在互联网上共享自己的数据、功能；另一方面，在企业中，RESTful API（也称RESTful Web服务）也逐渐超越SOAP成为实现SOA的重要手段之一。时至今日，RESTful架构风格已成为企业级服务的标配。
+
+REST即Representational State Transfer的缩写，可译为"表现层状态转化”。REST最大的几个特点为：资源、统一接口、URI和无状态。
+
+
+1.1 RESTful架构风格的特点
+
+
+1.1.1 资源
+
+所谓"资源"，就是网络上的一个实体，或者说是网络上的一个具体信息。它可以是一段文本、一张图片、一首歌曲、一种服务，总之就是一个具体的实在。资源总要通过某种载体反应其内容，文本可以用txt格式表现，也可以用HTML格式、XML格式表现，甚至可以采用二进制格式；图片可以用JPG格式表现，也可以用PNG格式表现；JSON是现在最常用的资源表示格式。
+
+结合我的开发实践，我对资源和数据理解如下：
+
+资源是以json(或其他Representation)为载体的、面向用户的一组数据集，资源对信息的表达倾向于概念模型中的数据：
+
+资源总是以某种Representation为载体显示的，即序列化的信息
+常用的Representation是json(推荐)或者xml（不推荐）等
+Represntation 是REST架构的表现层
+相对而言，数据（尤其是数据库）是一种更加抽象的、对计算机更高效和友好的数据表现形式，更多的存在于逻辑模型中
+
+资源和数据关系如下：
+
+
+1.1.2 统一接口
+
+RESTful架构风格规定，数据的元操作，即CRUD(create, read, update和delete,即数据的增删查改)操作，分别对应于HTTP方法：GET用来获取资源，POST用来新建资源（也可以用于更新资源），PUT用来更新资源，DELETE用来删除资源，这样就统一了数据操作的接口，仅通过HTTP方法，就可以完成对数据的所有增删查改工作。
+
+即：
+
+GET（SELECT）：从服务器取出资源（一项或多项）。
+POST（CREATE）：在服务器新建一个资源。
+PUT（UPDATE）：在服务器更新资源（客户端提供完整资源数据）。
+PATCH（UPDATE）：在服务器更新资源（客户端提供需要修改的资源数据）。
+DELETE（DELETE）：从服务器删除资源。
+
+1.1.3 URI
+
+可以用一个URI（统一资源定位符）指向资源，即每个URI都对应一个特定的资源。要获取这个资源，访问它的URI就可以，因此URI就成了每一个资源的地址或识别符。
+
+一般的，每个资源至少有一个URI与之对应，最典型的URI即URL。
+
+
+1.1.4 无状态
+
+所谓无状态的，即所有的资源，都可以通过URI定位，而且这个定位与其他资源无关，也不会因为其他资源的变化而改变。有状态和无状态的区别，举个简单的例子说明一下。如查询员工的工资，如果查询工资是需要登录系统，进入查询工资的页面，执行相关操作后，获取工资的多少，则这种情况是有状态的，因为查询工资的每一步操作都依赖于前一步操作，只要前置操作不成功，后续操作就无法执行；如果输入一个url即可得到指定员工的工资，则这种情况是无状态的，因为获取工资不依赖于其他资源或状态，且这种情况下，员工工资是一个资源，由一个url与之对应，可以通过HTTP中的GET方法得到资源，这是典型的RESTful风格。
+
+
+
+
+1.2 ROA、SOA、REST与RPC
+
+ROA即Resource Oriented Architecture，RESTful 架构风格的服务是围绕资源展开的，是典型的ROA架构（虽然“A”和“架构”存在重复，但说无妨），虽然ROA与SOA并不冲突，甚至把ROA看做SOA的一种也未尝不可，但由于RPC也是SOA，比较久远一点点论文、博客或图书也常把SOA与RPC混在一起讨论，因此，RESTful 架构风格的服务通常被称之为ROA架构，很少提及SOA架构，以便更加显式的与RPC区分。
+
+RPC风格曾是Web Service的主流，最初是基于XML-RPC协议（一个远程过程调用（remote procedure call，RPC)的分布式计算协议），后来渐渐被SOAP协议（简单对象访问协议（Simple Object Access Protocol））取代；RPC风格的服务，不仅可以用HTTP，还可以用TCP或其他通信协议。但RPC风格的服务，受开发服务采用语言的束缚比较大，如.NET框架中，开发web service的传统方式是使用WCF，基于WCF开发的服务即RPC风格的服务，使用该服务的客户端通常要用C#来实现，如果使用python或其他语言，很难实现可以直接与服务通信客户端；进入移动互联网时代后，RPC风格的服务很难在移动终端使用，而RESTful风格的服务，由于可以直接以json或xml为载体承载数据，以HTTP方法为统一接口完成数据操作，客户端的开发不依赖于服务实现的技术，移动终端也可以轻松使用服务，这也加剧了REST取代RPC成为web service的主导。
+
+RPC与RESTful的区别如下面两个图所示：
+
+
+
+
+1.3 本真REST与hybrid风格
+
+通常开发者做服务相关的客户端开发时，使用的所谓RESTful服务，基本可分为本真REST和hybrid风格两类。本真REST即我上文阐述的RESTful架构风格，具有上述的4个特点，是真正意义上的RESTful风格；而hybrid风格，只是借鉴了RESTful的一些优点，具有一部分RESTful的特点，但对外依然宣称是RESTful风格的服务。（窃以为，正是由于hybrid风格服务混淆了RESTful的概念，才在RESTful架构风格提出了本真REST的概念，以为了划分界限 :P）
+
+hybrid风格的最主流的用法是，使用GET方法获取资源，用POST方法实现资源的创建、修改和删除。hybrid风格之所以存在，据我了解有两种来源：一种情况是因为，某些开发者并没有真正理解何为RESTful架构风格，导致开发的服务貌合神离；而主流的原因是由于历史包袱 —— 服务本来是RPC风格的，由于上文提到的RPC的劣势及RESTful的优势，开发者在RPC风格的服务上又包装了一层RESTful的外壳，通常这层外壳只为获取资源服务，因此会按RESTful风格实现GET方法，如果客户端提出一些简单的创建、修改或删除数据的需求，则通过HTTP协议中最常用的POST方法实现相应功能。
+
+因此，开发RESTful 服务，如果没有历史包袱，不建议使用hybrid风格。
+
+
+-------------------
+
+
+我博客原文接下来介绍RESTful服务中认证机制相关内容，不在这里写了，有兴趣的看我博客吧
+
+RESTful 架构风格概述
+
+
+
+
+
+
+
+
+首先我们假设西雅图有个男孩叫小明，他是一个科比的粉丝，然后有一天小明想用电脑看科比的生涯集锦视频。他做了如下四步：
+
+在这个活动中，主要涉及到了四个部件：
+
+这大概就是一个传统的电脑软件的架构。现在我们看看如何把这个传统的电脑软件变成RESTful架构的软件。
+
+
+
+我们把小明家的电脑主机从小明西雅图搬到加州的圣布鲁罗，而小明的显示器则仍然留在家里。
+
+然后我们把之前连接电脑主机和显示器的“电线”换成“互联网”，并且把四个部件（显示器，主机，视频文件，暴风影音软件）的名字换成：客户端，服务器，资源，浏览器。
+
+为了在茫茫互联网世界中准确快速的找到那台服务器并观看“科比集锦”，我们需要给在加州圣布鲁罗的这台服务器加一个标识符，也就是常说的Url。 同时，为了区分服务器中的“科比集锦”和“麦迪集锦”，我们也需要给这两个视频单独加上标识符。
+
+这个服务器当然不只有科比和麦迪的视频，还有其他千千万万的视频，以及音乐，表单和网页等等东西。服务器上放不下这么多东西，所以需要把这些东西移到数据库里面放着。
+
+
+
+这样，整个RESTFul的架构基本上就成型了。我们再来看看小明今天应该如何观看科比的视频。
+
+步骤1. 小明打开浏览器。注意此时小明家中的电脑硬盘里面没有存任何视频，视频存在加州圣布鲁罗的数据库里面。
+
+
+
+步骤2.小明输入 http://www.youtube.com/kobehighlight 客户端通过互联网找到http://www.youtube.com的服务器，然后服务器根据kobehighlight在数据库里找到了科比的视频, 并把视频数据通过互联网传回给了小明的客户端。这个操作就是我们常说的GET。
+
+
+
+步骤3. 小明开心地观看传回来的视频，但是他不想在视频中看到克雷汤普森。
+
+
+
+步骤4. 他通过浏览器剪掉了克雷汤普森的部分，点击了”提交“，然后服务器接到这个请求之后把修改保存到数据库里面，并且告诉小明”你的修改已经保存。这个操作就是我们常说的POST。
+
+
+
+
+
+我们来对比一下之前的单机软件。
+
+单机软件的文件路径 = REST软件的Url
+
+单机软件的打开操作 = REST软件HTTP的GET
+
+单机软件的保存操作 = REST软件HTTP的POST
+
+
+
+那么非REST架构软件（SOAP）和REST架构软件之间的的区别是啥呢？
+
+其实区别就是在于对应的取资源的方式，SOAP用的是自己规定好的格式，而REST用的是大统一的Url格式。所以你想从SOAP软件中存取操作，必须事先知道它的读写格式；而REST，你只需要有一个浏览器就可以了。
+
+
+
+这里我尽量使用了”通俗易懂“的方式来解释这个问题，希望能帮到题主。具体当然还有很多细节，但是，这大概就是一个REST软件的样子。
+
+
+
+
+
+
+
+
+
+
+假如要管理一些用户，那么将用户看作是一种资源：
+
+
+get /users/{userId}  获取userId对应的user信息
+post /users 创建一个新的user
+put /users/{userId} 更改userId对应的user信息
+delete /users/{userId} 删除userId对应的user。
+
+soap是面向服务的
+
+
+还是管理用户，将对用户的操作看成服务：
+
+
+post /users/getUser
+post /users/creatUser
+post /users/updateUser
+post /users/deleteUser
+
+
+
+
+
+
+
+有朋友说好象跟自己定义的URL接口什么区别啊.大部分回答是抄来抄去没有直接解答这个直击要害的问题.
+
+为什么REST这么流行,就是定义一套规范的URL接口定义? 
+
+REST怎么定义有大量文章.他的优点在几个领域火了后才完整的体现出来.
+
+
+
+一.REST有详细清晰的理论定义,这样所有后端编程语言都能很轻易实现这个接口不需要重复造轮子,这样开发快
+
+二.另外在客户端各个平台也是相应的REST库,这样移动端(Android/iOS)与Web端共享一套REST接口.大大节约开发成本
+
+三.服务端变成越来越复杂,一个后台服务往往变成多个主机的同时为你服务,这样某个主机的REST接口也能被另一个主机使用.  这样主机通讯采用REST.现在大火微服务之间往往采用REST接口居多.
+
+
+
+
+
+
+
+
+基于 Flask 实现 RESTful API
+
+文中提到了 REST 的由来，什么是 RESTful API 以及翻译自 《Flask Web Development》作者 Miguel Grinberg 一篇使用 Flask 对 RESTful API 的一个实现。 
+
+什么是 REST？
+下面六条准则定义了一个 REST 系统的特征：
+
+客户-服务器（Client-Server），提供服务的服务器和使用服务的客户需要被隔离对待。
+无状态（Stateless），来自客户的每一个请求必须包含服务器处理该请求所需的所有信息。换句话说，服务器端不能存储来自某个客户的某个请求中的信息，并在该客户的其他请求中使用。
+可缓存（Cachable），服务器必须让客户知道请求是否可以被缓存。（Ross：更详细解释请参考 理解本真的REST架构风格 以及 StackOverflow 的这个问题 中对缓存的解释。）
+分层系统（Layered System），服务器和客户之间的通信必须被这样标准化：允许服务器和客户之间的中间层（Ross：代理，网关等）可以代替服务器对客户的请求进行回应，而且这些对客户来说不需要特别支持。
+统一接口（Uniform Interface），客户和服务器之间通信的方法必须是统一化的。（Ross：GET,POST,PUT.DELETE, etc）
+支持按需代码（Code-On-Demand，可选），服务器可以提供一些代码或者脚本（Ross：Javascrpt，flash，etc）并在客户的运行环境中执行。这条准则是这些准则中唯一不必必须满足的一条。（Ross：比如客户可以在客户端下载脚本生成密码访问服务器。）
+什么是一个 RESTful 的 Web Service？
+REST 架构最初被设计出来用于 World Wide Web 使用的 HTTP 协议。
+
+RESTful Web Service 的核心概念在于对 Resources 的抽象。Resources 被 URIs (Uniform Resource Identifier) 表征。客户使用 HTTP 协议定义的方法发送请求给这些 URIs，然后相应的资源的状态就可能会发生变化。
+
+
+HTTP 请求的方法是被专门设计出来以标准的方式影响给定资源的：
+
+Get：从某种资源获取信息 http://example.com/api/orders （获取 order list）
+Get：从某个资源获取信息http://example.com/api/orders/123 （获取 order #123）
+POST：创建一个新资源http://example.com/api/orders （根据请求中的数据创建一个新 order）PUT：更新一个资源http://example.com/api/orders/123 （根据请求中的数据更新 #order 为 123 的 order）
+DELETE：删除一个资源http://example.com/api/orders/123 （删除 #order 为 123 的 order）
+
+
+
+
+
+
+题主引用的整段话 根本就不是说Rest 和Restful的，完全在讲RPC，你如何看懂？
+
+
+引用：
+
+最近，使用 RPC 样式架构构建的基于 SOAP 的 Web 服务成为实现 SOA 最常用的方法。RPC 样式的 Web 服务客户端将一个装满数据的信封（包括方法和参数信息）通过 HTTP 发送到服务器。服务器打开信封并使用传入参数执行指定的方法。方法的结果打包到一个信封并作为响应发回客户端。客户端收到响应并打开信封。
+
+每个对象都有自己独特的方法以及仅公开一个 URI 的 RPC 样式 Web 服务，URI 表示单个端点。它忽略 HTTP 的大部分特性且仅支持 POST 方法。
+
+
+
+
+如果这都没发现，这是语文问题，通俗的语言也救不了你
+
+
+
+实际上不难懂  你以为是语言问题  其实是你缺少对划线词语的理解。
+
+
+
+
+
+
+
+http是目前在互联网上使用最多的协议，没有之一。
+
+可是http的创始人一直都觉得，在过去10几年来，所有的人都在错误的使用Http.
+
+
+
+这句话怎么说呢？
+
+如果说你要删除一个数据，以往的做法通常是 delete/{id} 
+
+如果你要更新一个数据，可能是Post数据放Body，然后方法是 update/{id}， 或者是artichle/{id}?method=update
+
+
+
+这种做法让Roy Fielding很暴燥，他觉得这个世界不该这样的，所有的人都在误解而且在严重错误的误解Http的设计初衷，好比是发明了火药却只用它来做烟花爆竹。
+
+
+
+那么正确的使用方式是什么呢？如果你要看Rest各种特性，你恐怕真的很难理解Rest，但是如果你看错误的使用http的人倒底儿了哪些错，什么是Rest就特别容易理解了。
+
+
+
+七宗罪的第一条，混乱。
+
+一万个人心里有一万个Url的命名规则，Url是统一资源定位符，重点是资源。而很多人却把它当成了万金油，每一个独立的虚拟的网页都可以随意使用，各种操作都能够迭加。
+
+这是混乱的来源之一。
+
+
+
+第二条，贪婪。
+
+有状态和无状态全部混在一起。特别是在购物车或者是登录的应用中，经常刷新就丢失带来的用户体验简直棒棒哒。每一个请求并不能单独的响应一些功能，很多的功能混杂在一起里。
+
+
+
+这是人性贪婪的本质，也是各种Hack的起源，只要能够把问题解决掉，总会有人用他认为最方便的方式去解决问题，比如说汽车门把手坏掉了直接系根绳子当把手，emmmm这样确实很棒啊。
+
+
+
+
+
+第三条，无序。
+
+返回的结果往往是很随意，各种错误信息本来就是用Http的状态码构成的，可是很多人还是喜欢把错误信息返回在返回值中。最常见的就是Code和Message，当然对于这一点，我个人是保留疑问的，我的观点是，Http本身的错误和服务器的内部错误还是需要在不断层面分开的，不能混在一起。可是在大神眼里并非如此，这个再议。
+
+
+
+
+
+好了我编不下去了。
+
+那么怎么解决这些问题呢？强迫症患者的福音就是先颁规则，第一个规则就是明确Url是什么，该怎么用。
+
+就是所有的Url本质来讲，都应该是一种资源。一个独立的Url地址，就是对应一个独一无二的资源。
+
+怎么样？这种感觉是不是棒棒哒？一个冰淇淋，一个老师，一间房子，在Url上对应的都是一个资源，不会有多余的Url跟他对应，也不会表示有多个Url地址~~注意，这里点的是Url地址，并不是单独的参数，他就是一个/room/{room_id}这样的东西，举个栗子,/room/3242 这就表示3242号房间。
+
+
+
+这是一个清爽的世界啊，你想想，之前的Url是什么都要，我开房，可能是/open/room/3242 我要退房可能是/exit/3242/room，我要打理房间，可能是room/3242?method=clean.
+
+
+
+够了！这些乱七八糟的东西全够了，让世界回归清爽的本质，一间房，就是/room/3242 没有别的Url地址了。
+
+
+
+那我想要对这个资源有操作怎么办？
+
+这就是棒棒哒大神想出来的了，http有几种Method来着？
+
+get ,put ,post,delete，还有其他隐藏的4种。
+
+在过去的混乱世界里，经常用的就是Get和Post。如果不是因为Get不支持大数据传输，我想连Post都会有人使用。（想像一下Roy Fielding在愤怒的对着电脑屏幕喊，Http的Method一共有八个，你们为毛只逮着Get一只羊的毛薅薅薅薅薅）。
+
+
+
+而对资源最常见的操作是什么？CRUD，对不对，就是创建，读，更新，删除。再看Http的Method？是不是非常完美？其实也怪Fielding老爷子一开始命名不准确，如果刚开始就是把Get方法叫做Read，Put方法叫做Update，Post叫做Create这该多好。。。
+
+
+
+你用一个Get，大家又发现没什么限制没什么所谓，又很难理解Put和Post的差别，法无禁止即可为啊，呃，老爷子不要瞪我，我瞎说的。
+
+
+
+总之，这四种方法够不够你浪？你有本身找出来更多的对资源的操作来啊，我还有4个Method没用过呢。如果这4个真的不够了，有什么问题，大不了我再重新更改http协议啊。
+
+
+
+其实简单说，对于Rest理解到这里就够了。后续的东西，都是在这一条基础上空想出来的，比强迫症更强迫症，当然，无状态我是百分百支持的。
+
+以上的各种表述可能不太准确，也纯属是我的意淫和各种小道资料，并未考据，但是凭良心讲，我是早就看不惯黑暗年代里的Url命名风格了，所以当时最早接触到Rest的时候，瞬间就找到了真爱，我靠，这不就是我一直想要的答案吗？
+
+
+
+但是我一直想的仅仅是命名规范，从来没有把自己的思考角度放在一个url就是一个资源，所有的操作都是对资源的更改而言的角度上啊。
+
+所以你能理解到的程度，更多的就是在于你要弄清楚你要解决的什么问题，如果你的问题只是理解Rest，恐怕你很理解，如果你的问题是怎么解决Url混乱的问题，你反而很快能弄懂了~
+
+
+
+
+
+最后，希望大家更好的记着这种思考和学习问题的方式，用这种心态多去理解Rest和Restful，写出一篇更严谨的文章来~~
+
+
+
+
+
+REST实际上很简单，对于一个基本扎实的本科生来说。如果你有操作系统的底子，再学过分布式系统，懂得一些网络协议，懂得一点点有限状态机最好，其实REST并不难理解。（其中，至少要有一点操作系统的底子）
+一句话，REST本质上是一种分布式系统的应用层解决方案。
+传统的分布式系统试图在操作系统这一层对底层硬件、软件和数据进行透明管理，向用户虚拟化出一台计算机，用户并不知道底层硬件、软件和数据的具体情形。
+众所周知，计算机系统的系统结构包括底层硬件、操作系统、系统支撑软件、应用层。操作系统占据了重要的地位，提供了两个最根本功能，资源管理与接口。其中，资源管理，包括硬件资源和软件资源。接口包括编程接口和人机交互接口。
+当计算机逐渐普及后，部署了越来越多的计算机系统。人们试图将这些计算机系统整合起来。
+90年代，改造通用的单机操作系统，将分布在地理位置不同的软、硬件资源管理起来，透明地提供给用户。很可惜，问题很多，通用的分布式系统的解决方案是很困难的。而且人们对于这种分布式系统的需求也并不是那么迫切。
+当SNS兴起之后，用户的信息分散在不同的平台上，用户所需要的信息等资源也分散在不同的平台上。传统的分布式系统，改造的是操作系统。但是，显然包括操作系统在内的软、硬件都属于不同的公司。
+怎么办？
+一个简单的思想，将资源的互通与资源的管理分离开。就是在应用层去满足这个资源互联互通的需求。信息等软、硬件资源还是由各个公司自己在自己的服务器上去解决，这就不需要资源管理了，也就不需要象传统的分布式系统那样需要改造操作系统的资源管理方案。
+另外一方面，http位于网络的应用层，soa的思想也比较成熟，能够很好地满足资源互通的需求，因此，只需设计一个应用层的资源互联互通的协议就可以了。
+至于各种资源的管理，还是丢给各个公司自己的操作系统去管理好了。
+这就把资源互通与资源管理这两个问题分离开了。
+搞懂这个，再去看rest是如何在应用层通过http实现资源的互联互通，就易如反掌。
+
+顺便说一下，培训班的，还是要把本科的专业课程学好。
+
+
+
+反对所有人的回答，题主问的是怎么用通俗的语言解释。一群人都写了这么多东西，看起来就头大，坦白讲，讲那么多技术点，通俗吗？我觉得用两句话就可以了：
+
+
+
+传统的接口设计，就是过程式的，每个特定的动作有特定的接口。
+
+后来的RESTful，其实就是一个面向对象的接口，接口是对象，这个对象有GET／POST／PUT／DELETE。。。等等成员函数（接口）。
+
+チェックで一致したワードがあったら、そのワードのバックグラウンドはチェックワードに対するワードカラーで設定する。
+　
+登録順の先勝ちで行う
+
+
+所以记住了：URL定位资源，用HTTP动词（GET,POST,DELETE,DETC）描述操作。
+
+
+REST，名词，一种网络架构规范，同上。
+
+RESTful，形容词，指实现了 REST规范的系统，如实现了REST规范的Web API就叫RESTful API。
+
+
+
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+一般来说，富人不会分享自己发家致富的秘密。所以，有互联网以来，我看到许多在网上教人致富的人都发了财。在英文博客界，写关于如何发财的博文成为了一个专门的门类。而真正的有钱人只会用心灵鸡汤敷衍一下大众，根本不会提供任何方法论，更不要说是致富秘诀了。
+
+也有例外。硅谷投资人Naval Ravikant在5月31日突然一口气发了40条语录，内容就是关于如何不靠运气而致富。随后这40条文字被不断转发，翻译为多国语言，这一事件史称“推文风暴”。Naval是印度裔移民，20多年来一直在美国硅谷创业。他最著名的创业项目是AngelList，世界股权众筹平台的鼻祖；他最著名的投资项目有两个，一个是Twitter，一个是Uber。
+
+奇怪的是，国内互联网上的反响并不强烈。按理说这应该是中国人最感兴趣的话题了，而且要比各种心灵鸡汤高好几个段位，为什么会遭到冷遇呢？我分析了一下原因，主要有两点：1、网上的版本翻译得不好，每个中文字都认识，连起来看就不懂了；2、致富这个话题在中文互联网里，已经被鸡汤严重污染了，所以许多人根本理解不了Naval在说什么。
+
+因此，我决定自己翻译并且注释一下Naval的40条语录：
+
+How to Get Rich (without getting lucky)
+
+《如何不靠运气致富》
+
+作者：Naval Ravikant
+
+翻译&注释：和菜头
+
+1. Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.
+
+去寻求财富，而非金钱或地位。财富就是你拥有资产，而资产在你睡觉的时候都还在为你赚钱；金钱是我们转换时间和财富的工具；身份是你在社会等级体系里所处的位置。
+
+2. Understand that ethical wealth creation is possible. If you secretly despise wealth, it will elude you.
+
+要明白一件事：一个人完全可以不靠坑蒙拐骗站着赚取财富。如果你在暗中鄙视财富，那么财富也会躲着你。
+
+3. Ignore people playing status games. They gain status by attacking people playing wealth creation games.
+
+别去理会那些热衷于玩身份游戏的人，他们通过攻击那些创造财富的人以获得自己的身份。
+
+4.You’re not going to get rich renting out your time. You must own equity—a piece of a business—to gain your financial freedom.
+
+你不会通过出租自己的时间而变得富有。你必须拥有产权，也就是生意的一部分，以此才能赢得个人财务自由。
+
+5.You will get rich by giving society what it wants but does not yet know how to get. At scale.
+
+提供社会大众想要但是他们还不知道如何获取的东西，你就会因此而致富。但有一点：你必须规模化地供应社会。
+
+6.Pick an industry where you can play long term games with long term people.
+
+选择一个你可以长期从事的产业，寻找一批可以一起长期共事的人。
+
+7.The Internet has massively broadened the possible space of careers. Most people haven’t figured this out yet.
+
+互联网极大拓展了一个人职业生涯的可能性。绝大多数人对此毫无认知。
+
+8.Play iterated games. All the returns in life, whether in wealth, relationships, or knowledge, come from compound interest.
+
+玩就玩复利游戏。无论是财富，人际关系或者是知识，所有你人生里获得的回报，都来自复利。
+
+9.Pick business partners with high intelligence, energy, and, above all, integrity.
+
+在选择商业合作伙伴的时候，选择那些高智商、精力旺盛的家伙，但在这一切之上，他应该是个正直诚实的人。
+
+10.Don’t partner with cynics and pessimists. Their beliefs are self-fulfilling.
+
+不要和愤世嫉俗者和悲观主义者合作，因为他们会任由坏事发生，以此证明他们的负面看法是正确的。
+
+11.Learn to sell. Learn to build. If you can do both, you will be unstoppable.
+
+学会如何销售，学会如何创建。如果你同时能做到这两件事，你的成功将无可阻挡。
+
+12.Arm yourself with specific knowledge, accountability, and leverage.
+
+用独到知识，责任感和杠杆武装自己。
+
+13.Specific knowledge is knowledge that you cannot be trained for. If society can train you, it can train someone else, and replace you.
+
+独到知识是那种不可以通过培训而获得的知识。这是因为，如果这种知识可以经由培训而得，那么其他人同样也可以，并且以此取代你。
+
+14.Specific knowledge is found by pursuing your genuine curiosity and passion rather than whatever is hot right now.
+
+在真正的好奇心和热情驱使你前进的路上，你更有可能获得独到知识，而不是在追逐潮流热点的闻风起舞脚步里。
+
+15.Building specific knowledge will feel like play to you but will look like work to others.
+
+创建独到知识的过程对于你就像是在玩，而对于别人则像是工作。
+
+16.When specific knowledge is taught, it’s through apprenticeships, not schools.
+
+不能通过学校教育教会一个人独到知识，它只能通过学徒制口传身教。
+
+17.Specific knowledge is often highly technical or creative. It cannot be outsourced or automated.
+
+独到知识通常极富技术性和创造性，因此它不能被外包或自动实现。
+
+18.Embrace accountability, and take business risks under your own name. Society will reward you with responsibility, equity, and leverage.
+
+拥抱责任感，押上自己的声誉以承担商业风险。社会也会以责任，产权和杠杆作为回报。
+
+19.The most accountable people have singular, public, and risky brands: Oprah, Trump, Kanye, Elon.
+
+最具责任感的人都具有独一无二的、世人皆知的、敢于冒险的个性特征，如奥普拉、川普、坎耶、埃隆。
+
+20.“Give me a lever long enough, and a place to stand, and I will move the earth.”—Archimedes
+
+只要给我一根足够长的杠杆，一处可以立足的地方，我就能撬起地球。——阿基米德
+
+21.Fortunes require leverage. Business leverage comes from capital, people, and products with no marginal cost of replication (code and media).
+
+财富增长需要使用杠杆。商业杠杆有三个来源：1、资本；2、人力；3、复制起来边际成本为零的产品（如：代码和媒体）。
+
+22.Capital means money. To raise money, apply your specific knowledge, with accountability, and show resulting good judgment.
+
+资本的意思就是钱。想要融资，那就运用你的独到知识，配合你责任感，展示出你良好的判断力。
+
+23.Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it.
+
+人力指的就是为你干活的人，它是最古老也是争夺最激烈的杠杆。人力杠杆会让你父母因为你手下有许多人为你工作而感到骄傲，但你不要浪费生命去追求这一点。
+
+24.Capital and labor are permissioned leverage. Everyone is chasing capital, but someone has to give it to you. Everyone is trying to lead, but someone has to follow you.
+
+资本和劳动力是需要征得许可才能使用的杠杆。每个人都在追逐资本，但总得有个什么人给你才行；每个人都想要领导其它人，但总得有什么人愿意跟着你才行。
+
+25.Code and media are permissionless leverage. They’re the leverage behind the newly rich. You can create software and media that works for you while you sleep.
+
+代码和媒体是无需要许可即可使用的杠杆。它们是新贵人群背后的杠杆，你可以通过自己创建的软件和媒体，在睡觉时仍然为你干活。
+
+26.An army of robots is freely available—it’s just packed in data centers for heat and space efficiency. Use it.
+
+一支机器人军团已经集结待命，只是为了节约空间和热效能，它们被打包放进数据中心。去用吧。
+
+27.If you can’t code, write books and blogs, record videos and podcasts.
+
+如果你不会编程，那你还可以写书和博客，或者做视频或者音频节目。
+
+28.Leverage is a force multiplier for your judgement.
+
+杠杆能够成倍地放大你的判断力（所产生的效能）。
+
+29.Judgement requires experience, but can be built faster by learning foundational skills.
+
+判断力需要经验，但它可以通过学习基本技能的方法更快速地建立起来。
+
+30.There is no skill called “business.” Avoid business magazines and business classes.
+
+并不存在一种叫做“商业”的能力。尽量避开商业杂志和商业课程。
+
+31.Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.
+
+去学习微观经济学、博弈论、心理学、说服术、伦理学、数学和计算机科学。
+
+32.Reading is faster than listening. Doing is faster than watching.
+
+读比听快，做比看快。
+
+33.You should be too busy to “do coffee,” while still keeping an uncluttered calendar.
+
+你应该忙得没有社交的时间才对，与此同时你应该始终保证日程安排井井有条。
+
+34.Set and enforce an aspirational personal hourly rate. If fixing a problem will save less than your hourly rate, ignore it. If outsourcing a task will cost less than your hourly rate, outsource it.
+
+你应该为自己设定一个有抱负的个人时薪数，并且坚持执行。如果解决一个问题所能节省下来的成本低于你的个人时薪，那就忽略这个问题好了；如果一项任务的外包成本低于你的个人时薪，就把它外包出去。
+
+35.Work as hard as you can. Even though who you work with and what you work on are more important than how hard you work.
+
+尽管你跟谁一起工作、做什么工作，要远比你的努力程度更加重要。但还是要倾尽全力去工作。
+
+36.Become the best in the world at what you do. Keep redefining what you do until this is true.
+
+你所做的事情，要努力做到世界最好。不断重新定义你在做什么，直到真的做到世界最好。
+
+37.There are no get rich quick schemes. That’s just someone else getting rich off you.
+
+这个世界上并没有快速赚钱致富的方法，如果你想要找寻这种方法，那它只会让别人从你身上赚钱致富。
+
+38.Apply specific knowledge, with leverage, and eventually you will get what you deserve.
+
+运用你的独到知识，配合上杠杆，最终你会得到你应该得到的东西。
+
+39.When you’re finally wealthy, you’ll realize that it wasn’t what you were seeking in the first place. But that’s for another day.
+
+终有一天当你变得富有，你会发现那一切并不是你最开始想要的东西。但是那就是另外一回事了。
+
+注释：
+
+1、财富就是你睡着觉，你的资产也在为你继续赚钱。这是一个越来越被广泛接受的定义。Naval Ravikant是硅谷狂热的数字货币支持者，所以，他的话另有所指。从前后文来看，他所谓的资产并不等于是传统意义上的房产、股票、收藏，而是偏向于他反复提及的：软件和媒体。
+
+2、出租时间概念，许多人理解为打工，认为打工就是出租自己的时间以换取金钱。其实并非如此，Naval所指的出租时间概念，指的是一个人的财富增长，是否直接关系到他的时间。一个小卖部的老板，他并不为谁打工，但是他的财富增长需要他长时间守在店里，因此，他依然是出租时间换钱。但一个淘宝点卡店老板则不同，他的点卡销售是全自动的，不需要24小时守着，而且也不需要只做这一样生意。这就是Naval所谓互联网拓宽了个人职业生涯的一个例子。
+
+3、equity我翻译为产权，不是一个很好的翻法。但是Naval前文提到assets，很明显，作为投资人他非常清楚地知道这两个字眼之间的区别。equity无论是翻译为股票、权益或者是资产，原文说“ You must own equity—a piece of a business—to gain your financial freedom.”，这是和出租时间概念做对应的。出租时间的人，在商业链条里作为生产资料出现，不拥有任何产权，也就无法通过商业行为获利，所以，我这里勉强翻译为产权。
+
+4、specific knowledge我翻译为独到知识，没有翻译为特定知识、专业知识或者是特殊知识。原因是在我的理解中，specific knowledge不是书本知识，也不是学校教授的知识，更不可能在网上免费获取。一方面，它只能提供自己实践来获取；另一方面，它只能通过前人口耳相传。这种知识是做成一件事情的关键，属于知识体系中不共的那一部分。所以，我翻译为独到知识。
+
+5、“Give me a lever long enough, and a place to stand, and I will move the earth.”—Archimedes 这话不像是阿基米德说的。更像是一次抬杠的结果：
+
+“给我一个支点，我就能撬起地球！”
+
+“那么，您站在哪儿呢？”
+
+“好吧，给我一个支点，再给我一个站立的地方，我就能撬起地球。”
+
+“那么，您用空气就能撬起地球了？”
+
+“好吧，给我一根足够长的杠杆，一处可以立足的地方，我就可以翘起地球！”
+
+“那么，阿基米德先生，支点又不需要了吗？”
+
+“滚！”
+
+6、accountability我本想翻译为“靠谱程度”，想想还是算了。
+
+7、号称是“四十条语录”，但是我就找见了39条。
+
+8、结合上下文看，Leverage一词始终翻译为“杠杆”其实也不大对头。Naval一再强调代码、博客、播客、视频节目，我觉得Leverage在他那里，有些时候应该相当于是个人影响力的代名词，或者可以简单理解为放大器。
+
+[$('#continuousPlay'),$('#stopPlay'),$('#exportFile'),$('#update'),$('#delete')];
+
+2. チェックワード情報CSVインポートAPI
+3. チェックワード情報CSVエクスポートAPI
+
+
+var _user = CCS.user;
+_user.getData( _user.USER_ID )
+
+companyId:CCS.user.getData( CCS.user.COMPANY_ID )
+
+
+
